@@ -13,15 +13,15 @@
 # 📊 GitHub Stats:
 
 <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=michaelhekmat&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nhekmat&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelhekmat&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nhekmat&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <!-- Streak Stats -->
 <p align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelhekmat&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhekmat&theme=tokyonight" alt="GitHub Streak" />
 </p>
