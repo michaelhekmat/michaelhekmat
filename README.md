@@ -1,8 +1,5 @@
-# 💫 About Me:
-👋 Hello there! My Name is Michael<br>
 🧠​ I study the human mind. <br>
 🌱 I’m currently learning Data Analysis and Management <br>
-💬 Ask me about R and Python<br>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
