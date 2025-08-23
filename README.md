@@ -1,5 +1,5 @@
 🧠​ I study the human mind. <br>
-🌱 I’m currently learning Data Analysis and Management <br>
+🌱 I’m currently learning Data Analysis and Management in Python <br>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
